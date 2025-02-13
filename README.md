@@ -1,3 +1,2 @@
-# STATS305B
-
-# My HW Sol
+# Applied Statistics
+# Numerical Method
